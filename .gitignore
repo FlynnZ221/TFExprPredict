@@ -1,0 +1,6 @@
+*.h5ad
+*.txt
+*.pkl
+.DS_Store
+Project proposal.pdf
+/checkpoints
